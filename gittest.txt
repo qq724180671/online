@@ -1,4 +1,4 @@
 ﻿hello world ! hello everyone !
 this is a git test ! 
 new line ! new line new string !
-gansu lanzhou
+gansu lanzhou !
