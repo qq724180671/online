@@ -1,2 +1,2 @@
-﻿hello world !
-this is a git test !
+﻿hello world ! hello everyone !
+this is a git test ! 
